@@ -1,0 +1,13 @@
+.maindesign {
+    font-family: sans-serif;
+    font-style: normal;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.twodesign {
+    display: none;
+}
